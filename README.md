@@ -27,13 +27,14 @@
 <img style="width:300px; height:300px" src="https://github.com/dorandoran104/SpringBoot-Project-MEGABOX/assets/117650784/4c8a96d4-fe6e-4e0a-9442-a706fbd3e17c">
 
 ## 📌 주요 기능
-#### 로그인 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
+#### 로그인/회원가입/마이페이지 - <a href="https://github.com/dorandoran104/SpringProject_CarrotMarket/wiki/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80(Member)" >상세보기 - WIKI 이동</a>
+
 - 로그인 시 쿠키(Cookie) 및 세션(Session) 생성
-#### 회원가입 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
+
 - 프로필 사진 등록
 - ID 중복 체크
 - 개인 혹은 사업자 등록
-#### 마이 페이지 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
+
 - 회원정보 변경
 - 비밀번호 변경
 - 회원탈퇴
@@ -46,11 +47,11 @@
 - 채팅(WebSocket)
 - 판매 정보 변경(예약중/거래완료)
 
-#### 동네가게 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8-Page)" >상세보기 - WIKI 이동</a>
+#### 동네가게 - <a href="#" >상세보기 - WIKI 이동</a>
 - 글 작성, 읽기, 수정, 삭제(CRUD)
 
-#### 부동산 직거래 - <a href="" >상세보기 - WIKI 이동</a> 
+#### 부동산 직거래 - <a href="#" >상세보기 - WIKI 이동</a> 
 - 글 작성, 읽기, 수정, 삭제(CRUD)
 
-#### 중고차 직거래 - <a href="" >상세보기 - WIKI 이동</a> 
+#### 중고차 직거래 - <a href="#" >상세보기 - WIKI 이동</a> 
 - 글 작성, 읽기, 수정, 삭제(CRUD)
