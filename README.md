@@ -40,7 +40,7 @@
 - 회원탈퇴
 - 나의 글 조회
 
-#### 중고거래 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%98%81%ED%99%94-%EC%98%88%EB%A7%A4)" >상세보기 - WIKI 이동</a>
+#### 중고거래 - <a href="#" >상세보기 - WIKI 이동</a>
 - 게시글 리스트(AJAX)
 - 게시글 수정/삭제
 - 관심글
